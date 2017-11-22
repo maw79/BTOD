@@ -1,2 +1,2 @@
-# BTOD
-Blue Team Of Death
+# ExcServer
+Software Engineering Project 1
